@@ -24,7 +24,7 @@
 
 ## Overview
 
-![screenshot](images/Preview.png)
+![screenshot](images/Preview.jpg)
 
 This project was built with HTML and CSS
 
